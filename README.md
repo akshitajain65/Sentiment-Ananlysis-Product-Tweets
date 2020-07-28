@@ -1,2 +1,2 @@
 # Sentiment-Ananlysis-Tweets
-Doing Sentiment Analysis on Tweets to classify the sentiment
+Classifying Tweets based on their Sentiment 
