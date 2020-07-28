@@ -1,2 +1,2 @@
-# Sentiment-Ananlysis-Product-Tweets
+# Sentiment-Ananlysis-Tweets
 Doing Sentiment Analysis on Tweets to classify the sentiment
